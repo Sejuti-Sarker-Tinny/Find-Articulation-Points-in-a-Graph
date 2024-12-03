@@ -1,2 +1,2 @@
 # Articulation-Point
-Solution of how to find Articulation Point on C++
+Find Articulation Points in a Graph using the C++ Programming Language
